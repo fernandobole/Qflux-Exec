@@ -1,6 +1,7 @@
 mod config;
 mod instruments;
 mod book;
+mod public_ws;
 
 use anyhow::Result;
 use config::Config;
